@@ -34,11 +34,7 @@ Bem-vindo(a) ao meu perfil no GitHub!
 - Inteligência Artificial (IA)
 - Realidade Virtual (VR)
 - YouTube
-
-## 🎲 Curiosidades
-
-- (Prefiro não comentar 😉)
-
+  
 ---
 
 > "A tecnologia move o mundo." — Steve Jobs
